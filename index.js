@@ -25,5 +25,7 @@ const myArray = [
 //efecto deslizar y que aparece el contenido:
 
 
+import { objetosZelda } from "./zeldaItems";
+
 
 
